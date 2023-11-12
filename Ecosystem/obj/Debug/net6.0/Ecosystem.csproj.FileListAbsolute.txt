@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\bin\Debug\net6.0\Ecosystem.exe
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\bin\Debug\net6.0\Ecosystem.deps.json
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\bin\Debug\net6.0\Ecosystem.runtimeconfig.json
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\bin\Debug\net6.0\Ecosystem.dll
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\bin\Debug\net6.0\Ecosystem.pdb
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.dll
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\refint\Ecosystem.dll
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.pdb
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\Ecosystem.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabThirdSecond\Ecosystem\obj\Debug\net6.0\ref\Ecosystem.dll

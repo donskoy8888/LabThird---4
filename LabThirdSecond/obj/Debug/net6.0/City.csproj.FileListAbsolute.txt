@@ -1,0 +1,14 @@
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\bin\Debug\net6.0\City.exe
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\bin\Debug\net6.0\City.deps.json
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\bin\Debug\net6.0\City.runtimeconfig.json
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\bin\Debug\net6.0\City.dll
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\bin\Debug\net6.0\City.pdb
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.AssemblyInfoInputs.cache
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.AssemblyInfo.cs
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.csproj.CoreCompileInputs.cache
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.dll
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\refint\City.dll
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.pdb
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\City.genruntimeconfig.cache
+D:\codes\work\AnActualWork\LabThirdSecond\LabThirdSecond\obj\Debug\net6.0\ref\City.dll
